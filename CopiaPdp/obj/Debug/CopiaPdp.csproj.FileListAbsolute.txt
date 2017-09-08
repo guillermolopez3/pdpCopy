@@ -1,0 +1,27 @@
+D:\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.exe.config
+D:\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.exe
+D:\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.pdb
+D:\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.csprojResolveAssemblyReference.cache
+D:\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.Form1.resources
+D:\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.Properties.Resources.resources
+D:\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.csproj.GenerateResource.Cache
+D:\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.exe
+D:\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.pdb
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.exe.config
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.exe
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.pdb
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.exe
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.pdb
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.csprojResolveAssemblyReference.cache
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.Form1.resources
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.Properties.Resources.resources
+F:\Proyectos\Windows\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.csproj.GenerateResource.Cache
+D:\sistema pdp\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.exe.config
+D:\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.exe
+D:\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.pdb
+D:\sistema pdp\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.exe
+D:\sistema pdp\CopiaPdp\CopiaPdp\bin\Debug\CopiaPdp.pdb
+D:\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.csprojResolveAssemblyReference.cache
+D:\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.Form1.resources
+D:\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.Properties.Resources.resources
+D:\sistema pdp\CopiaPdp\CopiaPdp\obj\Debug\CopiaPdp.csproj.GenerateResource.Cache
